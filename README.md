@@ -1,4 +1,4 @@
-# clipFile - Copy your files to clipboard from terminal
+# clipFile - Copy your files content to clipboard from terminal
 
 ## Usage
 ```bash
