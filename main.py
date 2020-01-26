@@ -26,5 +26,5 @@ if os.path.isfile(file_path):
     file_text = file.read()
     copy_to_clipboard(file_text)
 else:
-    print(f'{file_path} does not exists or is not a file')
+    print(f'ERROR: {file_path} does not exists or is not a file')
 
